@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahelizad
-- 👀 I’m interested in front end web development and mobile app development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a coding newbie interested in front end web development and mobile app development.
+- 🌱 I’m currently learning jQuery.
 - 💞️ I’m looking to collaborate on Javascript coding challenges.
 - 📫 How to reach me sarah.el.duval@gmail.com
 
