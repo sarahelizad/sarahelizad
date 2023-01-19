@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahelizad
-- 👀 I’m a Front End Web Developer.
+- 👀 I’m a Full Stack Software Engineer.
 - 🌱 I’m currently exploring EJS.
 - 💞️ I’m looking to collaborate on open source projects and hackathons.
 - 📫 How to reach me sarah.el.duval@gmail.com
